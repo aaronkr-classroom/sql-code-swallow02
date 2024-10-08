@@ -17,7 +17,7 @@
 **03 SOL의 SELECT절에 사용할 수 없는 키워드는?**
 
 1. ASC
-2. '*'
+2. *
 3. DISTINCT
 4. ALL
 
